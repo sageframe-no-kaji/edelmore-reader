@@ -1,0 +1,32 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Linux trash metadata
+.Trash-*
+
+# Common editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Local environment files
+.env
+.env.*
+
+# Project-specific: seed document should not be tracked
+edelmore-reader-seed.md
