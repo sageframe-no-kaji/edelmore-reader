@@ -85,8 +85,6 @@ This is a state-based roadmap, not a date-based one. The reader's progress is ga
 
 Edelmore Reader is the sibling project to [Edelmore Diary](https://github.com/sageframe-no-kaji/edelmore-diary) — a private cottage-core diary for children, built first for a 13-year-old who wanted an Anne Frank–style journal on her own terms. The diary is the active project; the reader is the eventual fork. The two share the book metaphor, the visual identity, the narration stack, and the deployment pattern; they differ in content model and use case.
 
-If you're seeing the diary repo before the reader: that's correct. The reader can't responsibly start until the diary's infrastructure is mature and refactored. The seed in this repo (`ho-process/seeds/edelmore-reader-seed.md`) documents the architectural reasoning.
-
 ## Why "Edelmore"
 
 The name was chosen by Iona, the diary's first user. It carries forward unchanged. The reader sits in the same family of objects under the same name.
