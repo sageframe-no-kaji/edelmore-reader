@@ -87,7 +87,7 @@ Edelmore Reader is the sibling project to [Edelmore Diary](https://github.com/sa
 
 ## Why "Edelmore"
 
-The name was chosen by Iona, the diary's first user. It carries forward unchanged. The reader sits in the same family of objects under the same name.
+The name was chosen by Iona, the diary's first user. It's a mix between Edelweiss and Evermore. It carries forward unchanged. The reader sits in the same family of objects under the same name.
 
 ## License
 
